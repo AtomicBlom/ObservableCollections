@@ -1,7 +1,7 @@
 {
     "name": "cysharp.observablecollections",
     "displayName": "Observable Collections",
-    "version": "0.0.1",
+    "version": "1.1.2",
     "unity": "2021.2",
     "description": "ObservableCollections high performance observable collections.",
     "keywords": [
